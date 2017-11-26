@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PauseScript.cs">
+    <Files>
+      <File FileName="Assets\PlanePilot.cs" Line="42" Column="30" />
+      <File FileName="Assets\MainMenu.cs" Line="27" Column="1" />
+      <File FileName="Assets\Collectible.cs" Line="9" Column="2" />
+      <File FileName="Assets\GameManager.cs" Line="43" Column="12" />
+      <File FileName="Assets\PauseScript.cs" Line="26" Column="3" />
+      <File FileName="Assets\TypeWriterEffect.cs" Line="14" Column="29" />
+      <File FileName="Assets\Timer2.js" Line="8" Column="26" />
+      <File FileName="Assets\Timer.js" Line="11" Column="1" />
+      <File FileName="Assets\TimerCsharp2.cs" Line="16" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

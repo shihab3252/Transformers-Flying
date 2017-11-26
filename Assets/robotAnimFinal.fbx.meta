@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 1256c8a7c676de141b58e153a19a26b0
+timeCreated: 1511646442
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: a1.l
+    100002: a1.l 1
+    100004: a1.l 2
+    100006: a1.l 3
+    100008: a1.r
+    100010: a1.r 1
+    100012: a1.r 2
+    100014: a1.r 3
+    100016: a2.l
+    100018: a2.l 1
+    100020: a2.l 2
+    100022: a2.l 3
+    100024: a2.l_end
+    100026: a2.l_end 1
+    100028: a2.l_end 2
+    100030: a2.l_end 3
+    100032: a2.r
+    100034: a2.r 1
+    100036: a2.r 2
+    100038: a2.r 3
+    100040: a2.r_end
+    100042: a2.r_end 1
+    100044: a2.r_end 2
+    100046: a2.r_end 3
+    100048: Armature
+    100050: Armature.001
+    100052: Armature.002
+    100054: Armature.003
+    100056: armjoint.l
+    100058: armjoint.l 1
+    100060: armjoint.l 2
+    100062: armjoint.l 3
+    100064: armjoint.r
+    100066: armjoint.r 1
+    100068: armjoint.r 2
+    100070: armjoint.r 3
+    100072: Bone
+    100074: Bone 1
+    100076: Bone 2
+    100078: Bone 3
+    100080: Bone.002
+    100082: Bone.002 1
+    100084: Bone.002 2
+    100086: Bone.002 3
+    100088: Bone.003
+    100090: Bone.003 1
+    100092: Bone.003 2
+    100094: Bone.003 3
+    100096: Bone.006
+    100098: Bone.006 1
+    100100: Bone.006 2
+    100102: Bone.006 3
+    100104: Bone.007
+    100106: Bone.007 1
+    100108: Bone.007 2
+    100110: Bone.007 3
+    100112: cp
+    100114: cp 1
+    100116: cp 2
+    100118: cp 3
+    100120: cp2
+    100122: cp2 1
+    100124: cp2 2
+    100126: cp2 3
+    100128: cp3
+    100130: cp3 1
+    100132: cp3 2
+    100134: cp3 3
+    100136: Cube
+    100138: Cube.001
+    100140: Cube.001_MeshPart0
+    100142: Cube.001_MeshPart1
+    100144: Cube.001_MeshPart2
+    100146: Cube.001_MeshPart3
+    100148: Cube.002
+    100150: Cube.002_MeshPart0
+    100152: Cube.002_MeshPart1
+    100154: Cube.002_MeshPart2
+    100156: Cube.002_MeshPart3
+    100158: Cube.003
+    100160: Cube.003_MeshPart0
+    100162: Cube.003_MeshPart1
+    100164: Cube.003_MeshPart2
+    100166: Cube.003_MeshPart3
+    100168: Cube_MeshPart0
+    100170: Cube_MeshPart1
+    100172: Cube_MeshPart2
+    100174: Cube_MeshPart3
+    100176: elbow.l
+    100178: elbow.l 1
+    100180: elbow.l 2
+    100182: elbow.l 3
+    100184: elbow.r
+    100186: elbow.r 1
+    100188: elbow.r 2
+    100190: elbow.r 3
+    100192: foot.l
+    100194: foot.l 1
+    100196: foot.l 2
+    100198: foot.l 3
+    100200: foot.l_end
+    100202: foot.l_end 1
+    100204: foot.l_end 2
+    100206: foot.l_end 3
+    100208: foot.r
+    100210: foot.r 1
+    100212: foot.r 2
+    100214: foot.r 3
+    100216: foot.r_end
+    100218: foot.r_end 1
+    100220: foot.r_end 2
+    100222: foot.r_end 3
+    100224: knee.l
+    100226: knee.l 1
+    100228: knee.l 2
+    100230: knee.l 3
+    100232: knee.r
+    100234: knee.r 1
+    100236: knee.r 2
+    100238: knee.r 3
+    100240: leg_joint.l
+    100242: leg_joint.l 1
+    100244: leg_joint.l 2
+    100246: leg_joint.l 3
+    100248: leg_joint.r
+    100250: leg_joint.r 1
+    100252: leg_joint.r 2
+    100254: leg_joint.r 3
+    100256: pelvic_connector
+    100258: pelvic_connector 1
+    100260: pelvic_connector 2
+    100262: pelvic_connector 3
+    100264: prlvic
+    100266: prlvic 1
+    100268: prlvic 2
+    100270: prlvic 3
+    100272: //RootNode
+    100274: root
+    100276: root 1
+    100278: root 2
+    100280: root 3
+    100282: sh1.l
+    100284: sh1.l 1
+    100286: sh1.l 2
+    100288: sh1.l 3
+    100290: sh1.r
+    100292: sh1.r 1
+    100294: sh1.r 2
+    100296: sh1.r 3
+    100298: sh2.l
+    100300: sh2.l 1
+    100302: sh2.l 2
+    100304: sh2.l 3
+    100306: sh2.r
+    100308: sh2.r 1
+    100310: sh2.r 2
+    100312: sh2.r 3
+    100314: sh3.l
+    100316: sh3.l 1
+    100318: sh3.l 2
+    100320: sh3.l 3
+    100322: sh3.l_end
+    100324: sh3.l_end 1
+    100326: sh3.l_end 2
+    100328: sh3.l_end 3
+    100330: sh3.r
+    100332: sh3.r 1
+    100334: sh3.r 2
+    100336: sh3.r 3
+    100338: sh3.r_end
+    100340: sh3.r_end 1
+    100342: sh3.r_end 2
+    100344: sh3.r_end 3
+    100346: shin.l
+    100348: shin.l 1
+    100350: shin.l 2
+    100352: shin.l 3
+    100354: shin.r
+    100356: shin.r 1
+    100358: shin.r 2
+    100360: shin.r 3
+    100362: thigh_1.l
+    100364: thigh_1.l 1
+    100366: thigh_1.l 2
+    100368: thigh_1.l 3
+    100370: thigh_1.r
+    100372: thigh_1.r 1
+    100374: thigh_1.r 2
+    100376: thigh_1.r 3
+    400000: a1.l
+    400002: a1.l 1
+    400004: a1.l 2
+    400006: a1.l 3
+    400008: a1.r
+    400010: a1.r 1
+    400012: a1.r 2
+    400014: a1.r 3
+    400016: a2.l
+    400018: a2.l 1
+    400020: a2.l 2
+    400022: a2.l 3
+    400024: a2.l_end
+    400026: a2.l_end 1
+    400028: a2.l_end 2
+    400030: a2.l_end 3
+    400032: a2.r
+    400034: a2.r 1
+    400036: a2.r 2
+    400038: a2.r 3
+    400040: a2.r_end
+    400042: a2.r_end 1
+    400044: a2.r_end 2
+    400046: a2.r_end 3
+    400048: Armature
+    400050: Armature.001
+    400052: Armature.002
+    400054: Armature.003
+    400056: armjoint.l
+    400058: armjoint.l 1
+    400060: armjoint.l 2
+    400062: armjoint.l 3
+    400064: armjoint.r
+    400066: armjoint.r 1
+    400068: armjoint.r 2
+    400070: armjoint.r 3
+    400072: Bone
+    400074: Bone 1
+    400076: Bone 2
+    400078: Bone 3
+    400080: Bone.002
+    400082: Bone.002 1
+    400084: Bone.002 2
+    400086: Bone.002 3
+    400088: Bone.003
+    400090: Bone.003 1
+    400092: Bone.003 2
+    400094: Bone.003 3
+    400096: Bone.006
+    400098: Bone.006 1
+    400100: Bone.006 2
+    400102: Bone.006 3
+    400104: Bone.007
+    400106: Bone.007 1
+    400108: Bone.007 2
+    400110: Bone.007 3
+    400112: cp
+    400114: cp 1
+    400116: cp 2
+    400118: cp 3
+    400120: cp2
+    400122: cp2 1
+    400124: cp2 2
+    400126: cp2 3
+    400128: cp3
+    400130: cp3 1
+    400132: cp3 2
+    400134: cp3 3
+    400136: Cube
+    400138: Cube.001
+    400140: Cube.001_MeshPart0
+    400142: Cube.001_MeshPart1
+    400144: Cube.001_MeshPart2
+    400146: Cube.001_MeshPart3
+    400148: Cube.002
+    400150: Cube.002_MeshPart0
+    400152: Cube.002_MeshPart1
+    400154: Cube.002_MeshPart2
+    400156: Cube.002_MeshPart3
+    400158: Cube.003
+    400160: Cube.003_MeshPart0
+    400162: Cube.003_MeshPart1
+    400164: Cube.003_MeshPart2
+    400166: Cube.003_MeshPart3
+    400168: Cube_MeshPart0
+    400170: Cube_MeshPart1
+    400172: Cube_MeshPart2
+    400174: Cube_MeshPart3
+    400176: elbow.l
+    400178: elbow.l 1
+    400180: elbow.l 2
+    400182: elbow.l 3
+    400184: elbow.r
+    400186: elbow.r 1
+    400188: elbow.r 2
+    400190: elbow.r 3
+    400192: foot.l
+    400194: foot.l 1
+    400196: foot.l 2
+    400198: foot.l 3
+    400200: foot.l_end
+    400202: foot.l_end 1
+    400204: foot.l_end 2
+    400206: foot.l_end 3
+    400208: foot.r
+    400210: foot.r 1
+    400212: foot.r 2
+    400214: foot.r 3
+    400216: foot.r_end
+    400218: foot.r_end 1
+    400220: foot.r_end 2
+    400222: foot.r_end 3
+    400224: knee.l
+    400226: knee.l 1
+    400228: knee.l 2
+    400230: knee.l 3
+    400232: knee.r
+    400234: knee.r 1
+    400236: knee.r 2
+    400238: knee.r 3
+    400240: leg_joint.l
+    400242: leg_joint.l 1
+    400244: leg_joint.l 2
+    400246: leg_joint.l 3
+    400248: leg_joint.r
+    400250: leg_joint.r 1
+    400252: leg_joint.r 2
+    400254: leg_joint.r 3
+    400256: pelvic_connector
+    400258: pelvic_connector 1
+    400260: pelvic_connector 2
+    400262: pelvic_connector 3
+    400264: prlvic
+    400266: prlvic 1
+    400268: prlvic 2
+    400270: prlvic 3
+    400272: //RootNode
+    400274: root
+    400276: root 1
+    400278: root 2
+    400280: root 3
+    400282: sh1.l
+    400284: sh1.l 1
+    400286: sh1.l 2
+    400288: sh1.l 3
+    400290: sh1.r
+    400292: sh1.r 1
+    400294: sh1.r 2
+    400296: sh1.r 3
+    400298: sh2.l
+    400300: sh2.l 1
+    400302: sh2.l 2
+    400304: sh2.l 3
+    400306: sh2.r
+    400308: sh2.r 1
+    400310: sh2.r 2
+    400312: sh2.r 3
+    400314: sh3.l
+    400316: sh3.l 1
+    400318: sh3.l 2
+    400320: sh3.l 3
+    400322: sh3.l_end
+    400324: sh3.l_end 1
+    400326: sh3.l_end 2
+    400328: sh3.l_end 3
+    400330: sh3.r
+    400332: sh3.r 1
+    400334: sh3.r 2
+    400336: sh3.r 3
+    400338: sh3.r_end
+    400340: sh3.r_end 1
+    400342: sh3.r_end 2
+    400344: sh3.r_end 3
+    400346: shin.l
+    400348: shin.l 1
+    400350: shin.l 2
+    400352: shin.l 3
+    400354: shin.r
+    400356: shin.r 1
+    400358: shin.r 2
+    400360: shin.r 3
+    400362: thigh_1.l
+    400364: thigh_1.l 1
+    400366: thigh_1.l 2
+    400368: thigh_1.l 3
+    400370: thigh_1.r
+    400372: thigh_1.r 1
+    400374: thigh_1.r 2
+    400376: thigh_1.r 3
+    4300000: Cube_MeshPart0
+    4300002: Cube_MeshPart1
+    4300004: Cube_MeshPart2
+    4300006: Cube_MeshPart3
+    4300008: Cube.001_MeshPart0
+    4300010: Cube.001_MeshPart1
+    4300012: Cube.001_MeshPart2
+    4300014: Cube.001_MeshPart3
+    4300016: Cube.002_MeshPart0
+    4300018: Cube.002_MeshPart1
+    4300020: Cube.002_MeshPart2
+    4300022: Cube.002_MeshPart3
+    4300024: Cube.003_MeshPart0
+    4300026: Cube.003_MeshPart1
+    4300028: Cube.003_MeshPart2
+    4300030: Cube.003_MeshPart3
+    7400000: Armature|ArmatureAction
+    7400002: Armature|ArmatureAction.001
+    7400004: Armature|ArmatureAction.002
+    7400006: Armature|ArmatureAction.003
+    7400008: Armature.001|ArmatureAction
+    7400010: Armature.001|ArmatureAction.001
+    7400012: Armature.001|ArmatureAction.002
+    7400014: Armature.001|ArmatureAction.003
+    7400016: Armature.002|ArmatureAction
+    7400018: Armature.002|ArmatureAction.001
+    7400020: Armature.002|ArmatureAction.002
+    7400022: Armature.002|ArmatureAction.003
+    7400024: Armature.003|ArmatureAction
+    7400026: Armature.003|ArmatureAction.001
+    7400028: Armature.003|ArmatureAction.002
+    7400030: Armature.003|ArmatureAction.003
+    9500000: //RootNode
+    13700000: Cube.001_MeshPart0
+    13700002: Cube.001_MeshPart1
+    13700004: Cube.001_MeshPart2
+    13700006: Cube.001_MeshPart3
+    13700008: Cube.002_MeshPart0
+    13700010: Cube.002_MeshPart1
+    13700012: Cube.002_MeshPart2
+    13700014: Cube.002_MeshPart3
+    13700016: Cube.003_MeshPart0
+    13700018: Cube.003_MeshPart1
+    13700020: Cube.003_MeshPart2
+    13700022: Cube.003_MeshPart3
+    13700024: Cube_MeshPart0
+    13700026: Cube_MeshPart1
+    13700028: Cube_MeshPart2
+    13700030: Cube_MeshPart3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
